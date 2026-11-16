@@ -1,54 +1,54 @@
-# App-Dev
-My First Respiratory.
-# 🎬 My Favorite Series: Stranger Things
+# 🏐 My Favorite Series: Haikyuu!!
 
-> "Friends don't lie." – Eleven
+> "Fly." – the banner of Karasuno High School's volleyball team
 
 ---
 
 ## About the Series
-**Stranger Things** is a *science fiction horror* drama set in the 1980s in the small town of Hawkins, Indiana. It follows a group of kids who uncover supernatural mysteries and a secret government experiment. ~~It's just a normal town~~ Nothing in Hawkins is normal.
+**Haikyuu!!** is a *sports anime* based on the manga by Haruichi Furudate. It follows **Shoyo Hinata**, a short but determined boy who dreams of becoming a great volleyball player like the "Little Giant." He joins Karasuno High School's volleyball club, where he meets his rival **Tobio Kageyama**. ~~Volleyball is just a game~~ In Haikyuu!!, volleyball is about teamwork, growth, and never giving up.
 
 ## Main Characters
-1. Eleven
-2. Mike Wheeler
-3. Dustin Henderson
-4. Lucas Sinclair
-5. Will Byers
+1. Shoyo Hinata
+2. Tobio Kageyama
+3. Kei Tsukishima
+4. Tadashi Yamaguchi
+5. Daichi Sawamura
 
 ## Why I Like It
-- Great mix of **mystery**, **action**, and **friendship**
-- Amazing 80s music and nostalgia
+- Great mix of **teamwork**, **rivalry**, and **friendship**
+- Exciting matches that are fun to watch
 - Strong and likable characters
   - Characters grow throughout the seasons
-  - Every season has an exciting storyline
+  - Every rival team has its own style and story
 
 ## Quick Facts
-| Detail      | Information        |
-|-------------|--------------------|
-| Genre       | Sci-Fi, Horror     |
-| Platform    | Netflix            |
-| Release     | 2016               |
-| My Rating   | ⭐⭐⭐⭐⭐ (5/5) |
+| Detail      | Information            |
+|-------------|------------------------|
+| Genre       | Sports, Comedy, Drama  |
+| Studio      | Production I.G         |
+| First Aired | 2014                   |
+| My Rating   | ⭐⭐⭐⭐⭐ (5/5)          |
 
 ## Watch Checklist
 - [x] Season 1
 - [x] Season 2
+- [x] Season 3
+- [x] Season 4
 - [x] Rewatch the whole series
 
-## Favorite Quote in Code Style
-Use `inline code` for short snippets, and a code block for longer ones:
+## Favorite Team in Code Style
+My favorite team is `Karasuno High School`. Here is how I describe their spirit:
 
 ```text
-"Mornings are for coffee and contemplation."
+Small players, big dreams. Karasuno never stops flying.
 ```
 
 ## Learn More
-- Visit the [official Netflix page](https://www.netflix.com/title/80057281)
+- Read about it on [Wikipedia](https://en.wikipedia.org/wiki/Haikyu!!)
 - Markdown reference: [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
 ## Poster
-![Stranger Things](https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+![Haikyuu!!](https://us.oricon-group.com/upimg/sns/1000/1085/img1200/c149252aa9591847d96ec550fbfc05a0.jpg)
 
 ---
 *Created by: Fernandez, Billy A. for the App Dev class.*
